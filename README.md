@@ -47,3 +47,23 @@ Concepts Covered:
 2)Comparison with sklearn KNN classifier
 3)Hyperparameter tuning: Finding the best value of K
 4)Accuracy vs. K visualization
+
+✅ Task 6: Spam Detection using Multinomial Naive Bayes
+objective: 
+->Build a basic spam detection model using the Multinomial Naive Bayes algorithm on a custom text dataset.
+Concepts Covered:
+1)Text preprocessing using Bag-of-Words (CountVectorizer)
+2)Binary classification of text messages (Spam vs. Ham)
+3)Model building using Multinomial Naive Bayes
+4)Model evaluation with Accuracy and Classification Report
+5)Testing on a custom message input
+
+✅ Task 7: Customer Segmentation using K-Means
+Objective: 
+->Segment customers into distinct groups based on their purchasing behavior using K-Means Clustering.
+Concepts Covered:
+1)K-Means Clustering algorithm
+2)Data Preprocessing using StandardScaler
+3)Elbow Method to determine optimal number of clusters
+4)Cluster Visualization using Seaborn
+5)Customer profiling based on cluster assignments
